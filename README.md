@@ -15,8 +15,8 @@ Bevor du den Bot ausführen kannst, stelle sicher, dass die folgenden Voraussetz
    - Klone dieses Repository oder erstelle eine lokale Kopie des Codes.
 
    ```bash
-   git clone https://github.com/deinBenutzername/discord-role-kick-bot.git
-   cd discord-role-kick-bot
+   git clone https://github.com/GamingLuke1337/Kick-Bot
+   cd kick-bot
    ```
 
 2. **Installiere Abhängigkeiten**:
